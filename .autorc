@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ICE2023",
+  "repo": "container-iva9jta",
+  "name": "ICE2023",
+  "email": "suhrobmansurov77@gmail.com",
+}
